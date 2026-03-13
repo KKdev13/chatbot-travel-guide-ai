@@ -20,7 +20,7 @@ An AI-powered virtual Parisian travel guide built with OpenAI's API. This chatbo
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
 
 ```bash
 git clone https://github.com/KKdev13/chatbot-travel-guide-ai.git
